@@ -1,0 +1,13 @@
+# Raw datasets excluded for clean placement repository
+AdventureWorks+Raw+Data (1)/
+
+# macOS system files
+.DS_Store
+__MACOSX/
+._*
+
+# Temporary files
+*.tmp
+*.log
+scratch/
+pbix_extract/
