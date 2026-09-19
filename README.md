@@ -116,6 +116,3 @@ The report consists of **4 interactive pages** designed for executive and operat
 
 ---
 
-## 👤 Author & Acknowledgments
-* **Author**: anushka9211 (23uec520@lnmiit.ac.in)
-* **Project Type**: Portfolio Business Intelligence & Data Analytics Case Study
